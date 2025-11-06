@@ -1,3 +1,6 @@
+
+url = https://google-form-cicqrxwcb-sakthis-projects-4970001f.vercel.app/
+
 // === CONFIGURATION ===
 var sheetName = 'Sheet1';
 var scriptProp = PropertiesService.getScriptProperties();
